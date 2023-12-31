@@ -39,4 +39,4 @@ Visualize the confusion matrix using seaborn heatmap.
 
 **Conclusion**
 
-The provided code demonstrates two methods to download Kaggle datasets and implements the AlexNet architecture for image classification. The results include accuracy, precision scores, and a confusion matrix. Feel free to adapt the code for your specific Kaggle dataset and image classification tasks.
+The provided code demonstrates two methods to download Kaggle datasets and implements the AlexNet architecture for image classification. The results include accuracy, precision scores, and a confusion matrix. Feel free to adapt the code for your specific Kaggle dataset and image classification tasks. Happy Coding :)
